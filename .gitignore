@@ -1,0 +1,4 @@
+software/*
+.DS_Store
+.~lock*
+*.sqlite
