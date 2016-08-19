@@ -72,7 +72,7 @@
       </filegroup>
     </legendlayer>
   </legend>
-  <Composer title="Composer 1" visible="1">
+  <Composer title="Composer 1" visible="0">
     <Composition resizeToContentsMarginLeft="0" snapping="0" showPages="1" guidesVisible="1" resizeToContentsMarginTop="0" alignmentSnap="1" printResolution="300" paperWidth="297" gridVisible="0" snapGridOffsetX="0" smartGuides="1" snapGridOffsetY="0" resizeToContentsMarginRight="0" snapTolerancePixels="5" printAsRaster="1" generateWorldFile="0" paperHeight="210" numPages="1" snapGridResolution="10" resizeToContentsMarginBottom="0">
       <symbol alpha="1" clip_to_extent="1" type="fill" name="">
         <layer pass="0" class="SimpleFill" locked="0">
@@ -92,7 +92,7 @@
       <ComposerLabel valign="64" marginX="1" marginY="1" labelText="CRS: EPSG: 25832" htmlState="0" halign="2">
         <LabelFont description=".SF NS Text,10,-1,5,50,0,0,0,0,0" style=""/>
         <FontColor red="0" blue="0" green="0"/>
-        <ComposerItem pagey="180.285" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="211.282" y="180.285" visibility="1" zValue="20" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="80.3977" outlineWidth="0.3" excludeFromExports="0" uuid="{452bb747-fa46-438e-acbe-058970a4f276}" height="6.68517" itemRotation="0" frame="false" pagex="211.282">
+        <ComposerItem pagey="180.285" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="211.282" y="180.285" visibility="1" zValue="9" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="80.3977" outlineWidth="0.3" excludeFromExports="0" uuid="{452bb747-fa46-438e-acbe-058970a4f276}" height="6.68517" itemRotation="0" frame="false" pagex="211.282">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
@@ -101,14 +101,14 @@
       <ComposerLabel valign="64" marginX="1" marginY="1" labelText="Production date: [%format_date( now(), 'd/M/yyyy')%]" htmlState="0" halign="2">
         <LabelFont description=".SF NS Text,10,-1,5,50,0,0,0,0,0" style=""/>
         <FontColor red="0" blue="0" green="0"/>
-        <ComposerItem pagey="187.178" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="211.282" y="187.178" visibility="1" zValue="11" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="80.3977" outlineWidth="0.3" excludeFromExports="0" uuid="{6eedf379-d250-48dc-8afc-a5aa503c5283}" height="5.94072" itemRotation="0" frame="false" pagex="211.282">
+        <ComposerItem pagey="187.178" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="211.282" y="187.178" visibility="1" zValue="8" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="80.3977" outlineWidth="0.3" excludeFromExports="0" uuid="{6eedf379-d250-48dc-8afc-a5aa503c5283}" height="5.94072" itemRotation="0" frame="false" pagex="211.282">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
         </ComposerItem>
       </ComposerLabel>
       <ComposerMap mapRotation="0" keepLayerSet="true" id="1" previewMode="Cache" drawCanvasItems="true">
-        <Extent ymin="6158778.11052757035940886" xmin="684314.00633298722095788" ymax="6169053.89009242877364159" xmax="695678.41716101276688278"/>
+        <Extent ymin="6158778.11052757035940886" xmin="684314.00633298722095788" ymax="6169053.88442965131253004" xmax="695678.41716101276688278"/>
         <LayerSet>
           <Layer>grid20160818210831202</Layer>
         </LayerSet>
@@ -367,6 +367,53 @@ def my_form_open(dialog, layer, feature):
           </LayerStyle>
         </LayerStyles>
         <Grid/>
+        <ComposerMapGrid rightAnnotationDirection="0" gridFramePenColor="0,0,0,255" show="0" bottomAnnotationPosition="1" annotationPrecision="3" showAnnotation="0" topFrameDivisions="0" uuid="{667d4ca4-9db3-4591-8078-67ca9e47065d}" leftAnnotationDirection="0" topAnnotationPosition="1" rightAnnotationDisplay="0" offsetX="0" offsetY="0" rightFrameDivisions="0" gridStyle="0" annotationFontColor="0,0,0,255" intervalX="0" gridFrameSideFlags="15" intervalY="0" bottomAnnotationDirection="0" leftAnnotationDisplay="0" leftFrameDivisions="0" frameFillColor1="255,255,255,255" annotationExpression="" frameFillColor2="0,0,0,255" crossLength="3" gridFramePenThickness="0.5" bottomAnnotationDisplay="0" unit="0" topAnnotationDisplay="0" leftAnnotationPosition="1" blendMode="0" gridFrameStyle="0" rightAnnotationPosition="1" gridFrameWidth="2" name="Grid 1" annotationFormat="0" bottomFrameDivisions="0" topAnnotationDirection="0" frameAnnotationDistance="1">
+          <lineStyle>
+            <symbol alpha="1" clip_to_extent="1" type="line" name="">
+              <layer pass="0" class="SimpleLine" locked="0">
+                <prop k="capstyle" v="square"/>
+                <prop k="customdash" v="5;2"/>
+                <prop k="customdash_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="customdash_unit" v="MM"/>
+                <prop k="draw_inside_polygon" v="0"/>
+                <prop k="joinstyle" v="bevel"/>
+                <prop k="line_color" v="0,0,0,255"/>
+                <prop k="line_style" v="solid"/>
+                <prop k="line_width" v="0"/>
+                <prop k="line_width_unit" v="MM"/>
+                <prop k="offset" v="0"/>
+                <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="offset_unit" v="MM"/>
+                <prop k="use_custom_dash" v="0"/>
+                <prop k="width_map_unit_scale" v="0,0,0,0,0,0"/>
+              </layer>
+            </symbol>
+          </lineStyle>
+          <markerStyle>
+            <symbol alpha="1" clip_to_extent="1" type="marker" name="">
+              <layer pass="0" class="SimpleMarker" locked="0">
+                <prop k="angle" v="0"/>
+                <prop k="color" v="0,0,0,255"/>
+                <prop k="horizontal_anchor_point" v="1"/>
+                <prop k="name" v="circle"/>
+                <prop k="offset" v="0,0"/>
+                <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="offset_unit" v="MM"/>
+                <prop k="outline_color" v="0,0,0,255"/>
+                <prop k="outline_style" v="solid"/>
+                <prop k="outline_width" v="0"/>
+                <prop k="outline_width_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="outline_width_unit" v="MM"/>
+                <prop k="scale_method" v="diameter"/>
+                <prop k="size" v="2"/>
+                <prop k="size_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="size_unit" v="MM"/>
+                <prop k="vertical_anchor_point" v="1"/>
+              </layer>
+            </symbol>
+          </markerStyle>
+          <annotationFontProperties description=".SF NS Text,13,-1,5,50,0,0,0,0,0" style=""/>
+        </ComposerMapGrid>
         <ComposerMapOverview frameMap="0" centered="0" inverted="0" uuid="{363a8b49-17ba-4e3d-83f8-3332253a0adb}" name="Overview 1" show="1" blendMode="0">
           <symbol alpha="1" clip_to_extent="1" type="fill" name="">
             <layer pass="0" class="SimpleFill" locked="0">
@@ -385,7 +432,7 @@ def my_form_open(dialog, layer, feature):
           </symbol>
         </ComposerMapOverview>
         <AtlasMap scalingMode="2" atlasDriven="0" margin="0.10000000000000001"/>
-        <ComposerItem pagey="182.416" page="1" id="" lastValidViewScaleFactor="2.83465" positionMode="0" positionLock="false" x="213.951" y="182.416" visibility="1" zValue="8" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="26.269" outlineWidth="0.3" excludeFromExports="0" uuid="{fb129cc2-ea9d-4b63-a0f9-bd1f30981dc6}" height="23.7526" itemRotation="0" frame="false" pagex="213.951">
+        <ComposerItem pagey="182.416" page="1" id="" lastValidViewScaleFactor="1.37373" positionMode="0" positionLock="false" x="213.951" y="182.416" visibility="1" zValue="7" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="26.269" outlineWidth="0.3" excludeFromExports="0" uuid="{fb129cc2-ea9d-4b63-a0f9-bd1f30981dc6}" height="23.7526" itemRotation="0" frame="false" pagex="213.951">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
@@ -415,7 +462,7 @@ def my_form_open(dialog, layer, feature):
         </lineStyle>
         <StartPoint x="214.658" y="179.578"/>
         <StopPoint x="290.972" y="179.578"/>
-        <ComposerItem pagey="178.871" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="213.951" y="178.871" visibility="1" zValue="7" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="77.7285" outlineWidth="0.3" excludeFromExports="0" uuid="{597d7361-beac-42a9-b1ca-b980927396d2}" height="1.41421" itemRotation="0" frame="false" pagex="213.951">
+        <ComposerItem pagey="178.871" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="213.951" y="178.871" visibility="1" zValue="6" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="77.7282" outlineWidth="0.3" excludeFromExports="0" uuid="{597d7361-beac-42a9-b1ca-b980927396d2}" height="1.41421" itemRotation="0" frame="false" pagex="213.951">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
@@ -424,14 +471,14 @@ def my_form_open(dialog, layer, feature):
       <ComposerLabel valign="64" marginX="1" marginY="1" labelText="Operator: [% @user_full_name %]" htmlState="0" halign="2">
         <LabelFont description=".SF NS Text,10,-1,5,50,0,0,0,0,0" style=""/>
         <FontColor red="0" blue="0" green="0"/>
-        <ComposerItem pagey="193.119" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="211.282" y="193.119" visibility="1" zValue="6" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="80.3977" outlineWidth="0.3" excludeFromExports="0" uuid="{86ec7789-89ce-4207-85ad-924c26cae6a6}" height="5.94072" itemRotation="0" frame="false" pagex="211.282">
+        <ComposerItem pagey="193.119" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="211.282" y="193.119" visibility="1" zValue="5" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="80.3977" outlineWidth="0.3" excludeFromExports="0" uuid="{86ec7789-89ce-4207-85ad-924c26cae6a6}" height="5.94072" itemRotation="0" frame="false" pagex="211.282">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
         </ComposerItem>
       </ComposerLabel>
       <ComposerLabel valign="128" marginX="1" marginY="1" labelText="Atlas of agriculture and water" htmlState="0" halign="4">
-        <LabelFont description="Helvetica,14,-1,5,75,0,0,0,0,0" style="Bold"/>
+        <LabelFont description="Helvetica,14,-1,5,75,0,0,0,0,0" style=""/>
         <FontColor red="0" blue="0" green="0"/>
         <ComposerItem pagey="5.94072" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="208.717" y="5.94072" visibility="1" zValue="3" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="83.9622" outlineWidth="0.3" excludeFromExports="0" uuid="{c1c169cc-b932-45d1-822e-ed53ccdc5608}" height="32.4759" itemRotation="0" frame="false" pagex="208.717">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
@@ -449,7 +496,7 @@ def my_form_open(dialog, layer, feature):
         </ComposerItem>
       </ComposerLabel>
       <ComposerMap mapRotation="0" keepLayerSet="false" id="0" previewMode="Cache" drawCanvasItems="true">
-        <Extent ymin="6163150.74866964016109705" xmin="690720.87460947269573808" ymax="6164526.63485148455947638" xmax="692220.87461100262589753"/>
+        <Extent ymin="6163167.94724691286683083" xmin="690739.62460949178785086" ymax="6164509.4362742118537426" xmax="692202.12461098353378475"/>
         <LayerSet/>
         <Grid/>
         <ComposerMapGrid rightAnnotationDirection="1" gridFramePenColor="0,0,0,255" show="1" bottomAnnotationPosition="1" annotationPrecision="3" showAnnotation="1" topFrameDivisions="0" uuid="{89c4cba9-1165-4a96-8871-1b26d8b756c1}" leftAnnotationDirection="0" topAnnotationPosition="1" rightAnnotationDisplay="0" offsetX="0" offsetY="415" rightFrameDivisions="0" gridStyle="0" annotationFontColor="227,26,28,255" intervalX="0.008" gridFrameSideFlags="15" intervalY="0.008" bottomAnnotationDirection="0" leftAnnotationDisplay="3" leftFrameDivisions="0" frameFillColor1="255,255,255,255" annotationExpression="" frameFillColor2="0,0,0,255" crossLength="3" gridFramePenThickness="0.29999999999999999" bottomAnnotationDisplay="0" unit="0" topAnnotationDisplay="3" leftAnnotationPosition="1" blendMode="0" gridFrameStyle="0" rightAnnotationPosition="1" gridFrameWidth="2" name="LatLon" annotationFormat="2" bottomFrameDivisions="0" topAnnotationDirection="0" frameAnnotationDistance="1">
@@ -557,14 +604,14 @@ def my_form_open(dialog, layer, feature):
           <annotationFontProperties description=".SF NS Text,13,-1,5,50,0,0,0,0,0" style=""/>
         </ComposerMapGrid>
         <AtlasMap scalingMode="0" atlasDriven="1" margin="0.10000000000000001"/>
-        <ComposerItem pagey="22.179" page="1" id="" lastValidViewScaleFactor="2.83465" positionMode="0" positionLock="false" x="10" y="22.179" visibility="1" zValue="1" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="195.643" outlineWidth="0.3" excludeFromExports="0" uuid="{5ba286ae-e30e-427f-b6a9-efbe0c74c4f7}" height="179.455" itemRotation="0" frame="false" pagex="10">
+        <ComposerItem pagey="22.179" page="1" id="" lastValidViewScaleFactor="1.37373" positionMode="0" positionLock="false" x="10" y="22.179" visibility="1" zValue="1" background="true" transparency="0" frameJoinStyle="miter" blendMode="0" width="195.643" outlineWidth="0.3" excludeFromExports="0" uuid="{5ba286ae-e30e-427f-b6a9-efbe0c74c4f7}" height="179.455" itemRotation="0" frame="false" pagex="10">
           <FrameColor alpha="255" red="0" blue="0" green="0"/>
           <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
           <customproperties/>
         </ComposerItem>
       </ComposerMap>
       <ComposerAttributeTableV2 source="0" showGrid="0" maxFeatures="30" resizeMode="0" filterFeatures="false" featureFilter="" emptyTableMode="0" wrapString="" wrapBehaviour="0" headerMode="0" backgroundColor="178,223,138,41" showEmptyRows="0" emptyTableMessage="" showOnlyVisibleFeatures="0" vectorLayer="agricultural_field_220160818210646983" composerMap="0" headerHAlignment="0" contentFontColor="0,0,0,255" headerFontColor="0,0,0,255" cellMargin="1" filterToAtlasIntersection="1" relationId="" gridStrokeWidth="0" gridColor="0,0,0,255" showUniqueRowsOnly="1">
-        <headerFontProperties description="Helvetica,14,-1,5,75,0,0,0,0,0" style="Bold"/>
+        <headerFontProperties description="Helvetica,14,-1,5,75,0,0,0,0,0" style=""/>
         <contentFontProperties description=".SF NS Text,13,-1,5,50,0,0,0,0,0" style=""/>
         <displayColumns>
           <column width="0" vAlignment="128" attribute="FieldID" sortByRank="0" hAlignment="1" heading="ID" sortOrder="0">
@@ -588,8 +635,8 @@ def my_form_open(dialog, layer, feature):
           <firstRow enabled="0" cellBackgroundColor="255,255,255,255"/>
           <lastRow enabled="0" cellBackgroundColor="255,255,255,255"/>
         </cellStyles>
-        <ComposerFrame sectionWidth="66.5812" sectionHeight="127.131" hideBackgroundIfEmpty="0" hidePageIfEmpty="0" sectionX="0" sectionY="0">
-          <ComposerItem pagey="44.3574" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="218.355" y="44.3574" visibility="1" zValue="4" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="66.5812" outlineWidth="0.3" excludeFromExports="0" uuid="{075e03c7-9a6d-4624-b20a-7477c16bcd7d}" height="127.131" itemRotation="0" frame="false" pagex="218.355">
+        <ComposerFrame sectionWidth="43.8281" sectionHeight="127.131" hideBackgroundIfEmpty="0" hidePageIfEmpty="0" sectionX="0" sectionY="0">
+          <ComposerItem pagey="41.4345" page="1" id="" lastValidViewScaleFactor="-1" positionMode="0" positionLock="false" x="218.355" y="41.4345" visibility="1" zValue="4" background="false" transparency="0" frameJoinStyle="miter" blendMode="0" width="43.8281" outlineWidth="0.3" excludeFromExports="0" uuid="{075e03c7-9a6d-4624-b20a-7477c16bcd7d}" height="127.131" itemRotation="0" frame="false" pagex="218.355">
             <FrameColor alpha="255" red="0" blue="0" green="0"/>
             <BackgroundColor alpha="255" red="255" blue="255" green="255"/>
             <customproperties/>
@@ -889,17 +936,18 @@ def my_form_open(dialog, layer, feature):
       <SingleCategoryDiagramRenderer diagramType="Pie">
         <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" sizeType="MM" minScaleDenominator="0">
           <fontProperties description=".SF NS Text,13,-1,5,50,0,0,0,0,0" style=""/>
+          <attribute field="" color="#000000" label=""/>
         </DiagramCategory>
       </SingleCategoryDiagramRenderer>
       <DiagramLayerSettings yPosColumn="-1" linePlacementFlags="10" placement="0" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
-      <annotationform></annotationform>
+      <annotationform>.</annotationform>
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
       <attributeactions/>
-      <editform></editform>
+      <editform>.</editform>
       <editforminit/>
       <editforminitcodesource>0</editforminitcodesource>
-      <editforminitfilepath></editforminitfilepath>
+      <editforminitfilepath>.</editforminitfilepath>
       <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
 """
 QGIS forms can have a Python function that is called when the form is
@@ -1210,17 +1258,18 @@ def my_form_open(dialog, layer, feature):
       <SingleCategoryDiagramRenderer diagramType="Pie">
         <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" sizeType="MM" minScaleDenominator="-4.65661e-10">
           <fontProperties description=".SF NS Text,13,-1,5,50,0,0,0,0,0" style=""/>
+          <attribute field="" color="#000000" label=""/>
         </DiagramCategory>
       </SingleCategoryDiagramRenderer>
       <DiagramLayerSettings yPosColumn="-1" linePlacementFlags="10" placement="2" dist="0" xPosColumn="-1" priority="0" obstacle="0" zIndex="0" showAll="1"/>
-      <annotationform></annotationform>
+      <annotationform>.</annotationform>
       <excludeAttributesWMS/>
       <excludeAttributesWFS/>
       <attributeactions/>
-      <editform></editform>
+      <editform>.</editform>
       <editforminit/>
       <editforminitcodesource>0</editforminitcodesource>
-      <editforminitfilepath></editforminitfilepath>
+      <editforminitfilepath>.</editforminitfilepath>
       <editforminitcode><![CDATA[# -*- coding: utf-8 -*-
 """
 QGIS forms can have a Python function that is called when the form is
@@ -1585,7 +1634,7 @@ def my_form_open(dialog, layer, feature):
         <fieldstyles/>
       </conditionalstyles>
     </maplayer>
-    <maplayer minimumScale="-4.65661e-10" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+    <maplayer minimumScale="0" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" geometry="Polygon" simplifyMaxScale="1" type="vector" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
       <id>grid20160818210831202</id>
       <datasource>./grid.shp</datasource>
       <keywordList>
@@ -1629,30 +1678,33 @@ def my_form_open(dialog, layer, feature):
           <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
         </edittype>
       </edittypes>
-      <renderer-v2 forceraster="0" symbollevels="0" type="singleSymbol" enableorderby="0">
-        <symbols>
-          <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
-            <layer pass="0" class="SimpleFill" locked="0">
-              <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="color" v="255,255,255,255"/>
-              <prop k="color_dd_active" v="1"/>
-              <prop k="color_dd_expression" v="if (&#xa;&#x9;$id = @atlas_featureid,  &#xa;&#x9;color_rgba( 255, 255, 255, 0), &#xa;&#x9;color_rgba( 255, 255, 255, 200))"/>
-              <prop k="color_dd_field" v=""/>
-              <prop k="color_dd_useexpr" v="1"/>
-              <prop k="joinstyle" v="bevel"/>
-              <prop k="offset" v="0,0"/>
-              <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
-              <prop k="offset_unit" v="MM"/>
-              <prop k="outline_color" v="0,0,0,255"/>
-              <prop k="outline_style" v="dash"/>
-              <prop k="outline_width" v="0.26"/>
-              <prop k="outline_width_unit" v="MM"/>
-              <prop k="style" v="solid"/>
-            </layer>
-          </symbol>
-        </symbols>
-        <rotation/>
-        <sizescale scalemethod="diameter"/>
+      <renderer-v2 forceraster="0" preprocessing="0" type="invertedPolygonRenderer" enableorderby="0">
+        <renderer-v2 forceraster="0" symbollevels="0" type="RuleRenderer" enableorderby="0">
+          <rules key="{dfa1c2fd-76d3-4fda-a4e9-0896c74cfe94}">
+            <rule filter=" $id = @atlas_featureid " key="{92111ad2-f028-4187-af67-fcdd9def9e11}" symbol="0" label="Mask"/>
+          </rules>
+          <symbols>
+            <symbol alpha="1" clip_to_extent="1" type="fill" name="0">
+              <layer pass="0" class="SimpleFill" locked="0">
+                <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="color" v="255,255,255,102"/>
+                <prop k="color_dd_active" v="0"/>
+                <prop k="color_dd_expression" v="if (&#xa;&#x9;$id = @atlas_featureid,  &#xa;&#x9;color_rgba( 255, 255, 255, 0), &#xa;&#x9;color_rgba( 255, 255, 255, 200))"/>
+                <prop k="color_dd_field" v=""/>
+                <prop k="color_dd_useexpr" v="1"/>
+                <prop k="joinstyle" v="bevel"/>
+                <prop k="offset" v="0,0"/>
+                <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
+                <prop k="offset_unit" v="MM"/>
+                <prop k="outline_color" v="0,0,0,255"/>
+                <prop k="outline_style" v="dash"/>
+                <prop k="outline_width" v="0.26"/>
+                <prop k="outline_width_unit" v="MM"/>
+                <prop k="style" v="solid"/>
+              </layer>
+            </symbol>
+          </symbols>
+        </renderer-v2>
       </renderer-v2>
       <labeling type="simple"/>
       <customproperties>
@@ -1821,7 +1873,7 @@ def my_form_open(dialog, layer, feature):
         <selectedonly on=""/>
       </labelattributes>
       <SingleCategoryDiagramRenderer diagramType="Pie">
-        <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" sizeType="MM" minScaleDenominator="-4.65661e-10">
+        <DiagramCategory penColor="#000000" labelPlacementMethod="XHeight" penWidth="0" diagramOrientation="Up" minimumSize="0" barWidth="5" penAlpha="255" maxScaleDenominator="1e+08" backgroundColor="#ffffff" transparency="0" width="15" scaleDependency="Area" backgroundAlpha="255" angleOffset="1440" scaleBasedVisibility="0" enabled="0" height="15" sizeType="MM" minScaleDenominator="0">
           <fontProperties description=".SF NS Text,13,-1,5,50,0,0,0,0,0" style=""/>
           <attribute field="" color="#000000" label=""/>
         </DiagramCategory>
@@ -1899,6 +1951,12 @@ def my_form_open(dialog, layer, feature):
     </Legend>
   </properties>
   <visibility-presets>
+    <visibility-preset name="All">
+      <layer style="" id="grid20160818210831202"/>
+      <layer style="" id="Stream20160818210647255"/>
+      <layer style="" id="Lake20160818210647142"/>
+      <layer style="" id="agricultural_field_220160818210646983"/>
+    </visibility-preset>
     <visibility-preset name="Grid">
       <layer style="" id="grid20160818210831202"/>
     </visibility-preset>
