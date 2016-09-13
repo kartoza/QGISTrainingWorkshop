@@ -1,7 +1,6 @@
 # QGIS Training Materials
 
-I did a training course with the new content we are working on and I also thing the 
-format works pretty well - though it is important to orientate people into how the 
+It is important to orientate people into how the 
 training works since most people are used to 'follow the dots'. It also takes a 
 little time to get used to the training modality but once they do I think they get 
 much more in-depth knowledge.
