@@ -4,15 +4,15 @@
 <dict>
 	<key>ApplicationVersion</key>
 	<array>
-		<string>com.omnigroup.OmniGraffle6</string>
-		<string>169.20.0.267128</string>
+		<string>com.omnigroup.OmniGraffle7</string>
+		<string>174.10.0.271786</string>
 	</array>
 	<key>CreationDate</key>
 	<string>2016-08-12 20:25:55 +0000</string>
 	<key>Creator</key>
 	<string>Tim Sutton</string>
 	<key>GraphDocumentVersion</key>
-	<integer>12</integer>
+	<integer>13</integer>
 	<key>GuidesLocked</key>
 	<string>NO</string>
 	<key>GuidesVisible</key>
@@ -36,9 +36,11 @@
 	<key>MasterSheets</key>
 	<array/>
 	<key>ModificationDate</key>
-	<string>2016-09-07 10:10:29 +0000</string>
+	<string>2016-10-17 05:27:55 +0000</string>
 	<key>Modifier</key>
 	<string>Tim Sutton</string>
+	<key>MovementHandleVisible</key>
+	<string>NO</string>
 	<key>NotesVisible</key>
 	<string>NO</string>
 	<key>OriginVisible</key>
@@ -70,7 +72,7 @@
 		<key>NSPaperName</key>
 		<array>
 			<string>string</string>
-			<string>76E7F5BC-695C-4047-9613-4CE6EB22AF48</string>
+			<string>2EAB7F79-1F2B-4641-BDEE-DA8A03C3E5C1</string>
 		</array>
 		<key>NSPaperSize</key>
 		<array>
@@ -101,13 +103,13 @@
 			<key>ActiveLayerIndex</key>
 			<integer>0</integer>
 			<key>AutoAdjust</key>
-			<true/>
+			<integer>6</integer>
 			<key>BackgroundGraphic</key>
 			<dict>
 				<key>Bounds</key>
 				<string>{{0, 0}, {1154.5511474609375, 731.86614990234375}}</string>
 				<key>Class</key>
-				<string>SolidGraphic</string>
+				<string>ShapedGraphic</string>
 				<key>ID</key>
 				<integer>2</integer>
 				<key>Style</key>
@@ -215,9 +217,10 @@
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\b\fs24 \cf1 \expnd0\expndtw0\kerning0
@@ -348,9 +351,10 @@ Read more}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\b\fs24 \cf1 \expnd0\expndtw0\kerning0
@@ -401,9 +405,10 @@ Reaffirm concept}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\b\fs24 \cf1 \expnd0\expndtw0\kerning0
@@ -494,9 +499,10 @@ Explain concept}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\b\fs24 \cf1 \expnd0\expndtw0\kerning0
@@ -547,9 +553,10 @@ Test concept}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\b\fs24 \cf1 \expnd0\expndtw0\kerning0
@@ -566,16 +573,16 @@ Introduce concept}</string>
 			<key>Layers</key>
 			<array>
 				<dict>
+					<key>Artboards</key>
+					<false/>
 					<key>Lock</key>
-					<string>NO</string>
+					<false/>
 					<key>Name</key>
 					<string>Layer 1</string>
 					<key>Print</key>
-					<string>YES</string>
-					<key>Slices</key>
-					<string>NO</string>
+					<true/>
 					<key>View</key>
-					<string>YES</string>
+					<true/>
 				</dict>
 			</array>
 			<key>LayoutInfo</key>
@@ -614,13 +621,13 @@ Introduce concept}</string>
 			<key>ActiveLayerIndex</key>
 			<integer>0</integer>
 			<key>AutoAdjust</key>
-			<true/>
+			<integer>6</integer>
 			<key>BackgroundGraphic</key>
 			<dict>
 				<key>Bounds</key>
-				<string>{{0, 0}, {1154.5511474609375, 731.86614990234375}}</string>
+				<string>{{0, 0}, {4618.20458984375, 2195.5984497070312}}</string>
 				<key>Class</key>
-				<string>SolidGraphic</string>
+				<string>ShapedGraphic</string>
 				<key>ID</key>
 				<integer>2</integer>
 				<key>Style</key>
@@ -678,9 +685,10 @@ Introduce concept}</string>
 						<key>Pad</key>
 						<real>0.0</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\b\fs24 \cf0 Symbol Layers}</string>
@@ -773,9 +781,10 @@ Introduce concept}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -827,9 +836,10 @@ No Symbol Renderer}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf0 is composed of}</string>
@@ -934,9 +944,10 @@ No Symbol Renderer}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf0 is composed of}</string>
@@ -1039,9 +1050,10 @@ No Symbol Renderer}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf0 can be\
@@ -1141,9 +1153,10 @@ filled with}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf0 can be a}</string>
@@ -1185,9 +1198,10 @@ filled with}</string>
 						<key>Pad</key>
 						<real>0.0</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\b\fs24 \cf0 Layers List}</string>
@@ -1231,9 +1245,10 @@ filled with}</string>
 						<key>Pad</key>
 						<real>0.0</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\b\fs24 \cf0 Layers}</string>
@@ -1277,9 +1292,10 @@ filled with}</string>
 						<key>Pad</key>
 						<real>0.0</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\b\fs24 \cf0 Styles}</string>
@@ -1332,9 +1348,10 @@ filled with}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf0 for polygon styles}</string>
@@ -1385,9 +1402,10 @@ filled with}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf0 for point styles}</string>
@@ -1696,9 +1714,10 @@ filled with}</string>
 						<key>Pad</key>
 						<real>0.0</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\b\fs24 \cf0 Diagram by:
@@ -1756,9 +1775,10 @@ Please contact tim@qgis.org with corrections / suggestions}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf0 for all styles}</string>
@@ -1895,9 +1915,10 @@ Please contact tim@qgis.org with corrections / suggestions}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -1948,9 +1969,10 @@ Rule Based}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -1975,7 +1997,7 @@ Arrow}</string>
 					<real>32.806924190224578</real>
 					<key>Points</key>
 					<array>
-						<string>{57.327608610608074, 100.63164195506528}</string>
+						<string>{56.878573693551978, 100.63183034667736}</string>
 						<string>{57.447645520819883, 350.8429417287158}</string>
 						<string>{114.74859705419865, 350.97962045590248}</string>
 					</array>
@@ -2048,9 +2070,10 @@ Arrow}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -2361,7 +2384,7 @@ Layer ... n}</string>
 					<real>18.45841356171951</real>
 					<key>Points</key>
 					<array>
-						<string>{294.02384935176656, 243.15447124514873}</string>
+						<string>{294.02376484338214, 242.48698864677863}</string>
 						<string>{354.74067647520553, 241.36525857925162}</string>
 						<string>{362.16849659427578, 148.08795214006702}</string>
 						<string>{417.60108678399337, 147.79997434314888}</string>
@@ -2434,9 +2457,10 @@ Layer ... n}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf0 can be a}</string>
@@ -2678,9 +2702,10 @@ Layer ... n}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -2731,9 +2756,10 @@ Style ... n}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -2784,9 +2810,10 @@ Style 1}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -2837,9 +2864,10 @@ Layer 1}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -2887,9 +2915,10 @@ Visibility Presets}</string>
 						<key>Pad</key>
 						<real>0.0</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs36 \cf0 QGIS Style Taxonomy}</string>
@@ -3172,9 +3201,10 @@ Visibility Presets}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf0 is a}</string>
@@ -3225,9 +3255,10 @@ Visibility Presets}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf0 is a}</string>
@@ -3278,9 +3309,10 @@ Visibility Presets}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf0 can be a}</string>
@@ -3303,7 +3335,7 @@ Visibility Presets}</string>
 					<key>OrthogonalBarPoint</key>
 					<string>{0, 0}</string>
 					<key>OrthogonalBarPosition</key>
-					<real>-1</real>
+					<real>154.47746019858209</real>
 					<key>Points</key>
 					<array>
 						<string>{689.26688838299754, 599.28983542564663}</string>
@@ -3437,9 +3469,10 @@ Visibility Presets}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf0 can be a}</string>
@@ -3536,9 +3569,10 @@ Visibility Presets}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf0 can be a}</string>
@@ -3637,9 +3671,10 @@ Visibility Presets}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf0 can be a}</string>
@@ -3690,9 +3725,10 @@ Visibility Presets}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf0 is a}</string>
@@ -3743,9 +3779,10 @@ Visibility Presets}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf0 can be a}</string>
@@ -3796,9 +3833,10 @@ Visibility Presets}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf0 can be a}</string>
@@ -4198,9 +4236,10 @@ Visibility Presets}</string>
 						<key>Pad</key>
 						<real>0.0</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\b\fs24 \cf0 Legend}</string>
@@ -4242,9 +4281,10 @@ Visibility Presets}</string>
 						<key>Pad</key>
 						<real>0.0</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs24 \cf0 Supports nested styles}</string>
@@ -4408,8 +4448,8 @@ Visibility Presets}</string>
 					<real>20.850784301757812</real>
 					<key>Points</key>
 					<array>
-						<string>{889.68791713918813, 303.08498342887668}</string>
-						<string>{993.36625258508707, 319.78155120340739}</string>
+						<string>{889.68796034690752, 303.06265364942089}</string>
+						<string>{993.86625258508707, 319.78155120340739}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -4529,9 +4569,10 @@ Visibility Presets}</string>
 						<key>Pad</key>
 						<real>0.0</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\b\fs24 \cf0 Points}</string>
@@ -4577,9 +4618,10 @@ Visibility Presets}</string>
 						<key>Pad</key>
 						<real>0.0</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\b\fs24 \cf0 Lines}</string>
@@ -4633,9 +4675,10 @@ Visibility Presets}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -4686,9 +4729,10 @@ Simple Line}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -4750,9 +4794,10 @@ Marker Line}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -4795,9 +4840,10 @@ Geometry Generator}</string>
 						<key>Pad</key>
 						<real>0.0</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\b\fs24 \cf0 Polygons}</string>
@@ -4851,9 +4897,10 @@ Geometry Generator}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -4904,9 +4951,10 @@ Font Marker}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -4947,9 +4995,10 @@ Ellipse Marker}</string>
 						<key>Pad</key>
 						<real>0.0</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\b\fs24 \cf0 Renderers}</string>
@@ -5003,9 +5052,10 @@ Ellipse Marker}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -5056,9 +5106,10 @@ Outline: Simple Line}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -5109,9 +5160,10 @@ Outline: Marker Line}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -5162,9 +5214,10 @@ Simple Fill}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -5215,9 +5268,10 @@ Shape burst Fill}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -5268,9 +5322,10 @@ SVG Fill}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -5321,9 +5376,10 @@ Raster Image Fill}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -5374,9 +5430,10 @@ Point Pattern Fill}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -5427,9 +5484,10 @@ Line Pattern Fill}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -5491,9 +5549,10 @@ Gradient Fill}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -5544,9 +5603,10 @@ Geometry Generator}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -5597,9 +5657,10 @@ Centroid Fill}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -5650,9 +5711,10 @@ Single Symbol}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -5703,9 +5765,10 @@ Categorized}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -5756,9 +5819,10 @@ Graduated}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -5809,9 +5873,10 @@ Graduated}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -5862,9 +5927,10 @@ Inverted Polygon}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -5915,9 +5981,10 @@ Heatmap }</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -5979,9 +6046,10 @@ Point Displacement}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -6032,9 +6100,10 @@ Geometry Generator}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -6085,9 +6154,10 @@ Simple Marker}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -6138,9 +6208,10 @@ SVG Marker}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -6447,22 +6518,22 @@ Vector Field Marker}</string>
 			<key>GridInfo</key>
 			<dict/>
 			<key>HPages</key>
-			<integer>1</integer>
+			<integer>2</integer>
 			<key>KeepToScale</key>
 			<false/>
 			<key>Layers</key>
 			<array>
 				<dict>
+					<key>Artboards</key>
+					<false/>
 					<key>Lock</key>
-					<string>NO</string>
+					<false/>
 					<key>Name</key>
 					<string>Layer 1</string>
 					<key>Print</key>
-					<string>YES</string>
-					<key>Slices</key>
-					<string>NO</string>
+					<true/>
 					<key>View</key>
-					<string>YES</string>
+					<true/>
 				</dict>
 			</array>
 			<key>LayoutInfo</key>
@@ -6501,13 +6572,13 @@ Vector Field Marker}</string>
 			<key>ActiveLayerIndex</key>
 			<integer>0</integer>
 			<key>AutoAdjust</key>
-			<true/>
+			<integer>6</integer>
 			<key>BackgroundGraphic</key>
 			<dict>
 				<key>Bounds</key>
-				<string>{{0, 0}, {2309.102294921875, 731.86614990234375}}</string>
+				<string>{{0, 0}, {3463.6534423828125, 1463.7322998046875}}</string>
 				<key>Class</key>
-				<string>SolidGraphic</string>
+				<string>ShapedGraphic</string>
 				<key>ID</key>
 				<integer>2</integer>
 				<key>Style</key>
@@ -6606,9 +6677,10 @@ Vector Field Marker}</string>
 								<key>Align</key>
 								<integer>0</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red25\green25\blue25;}
+{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c9804\c9804\c9804;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\partightenfactor0
 
 \f0\fs22 \cf2 e.g. OpenLayers Plugin}</string>
@@ -6750,9 +6822,10 @@ Vector Field Marker}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -6834,9 +6907,10 @@ Plugin Layer}</string>
 								<key>Align</key>
 								<integer>0</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red25\green25\blue25;}
+{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c9804\c9804\c9804;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\partightenfactor0
 
 \f0\fs22 \cf2 GeoTiff ASC VRT etc. \'85}</string>
@@ -6902,7 +6976,7 @@ Plugin Layer}</string>
 					<key>OrthogonalBarPoint</key>
 					<string>{185.86282169117649, 265.74230238970586}</string>
 					<key>OrthogonalBarPosition</key>
-					<real>40.816901408452111</real>
+					<real>40.816902160644531</real>
 					<key>Points</key>
 					<array>
 						<string>{153.39654965882659, 137.37738430937785}</string>
@@ -6977,9 +7051,10 @@ Plugin Layer}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -7011,7 +7086,7 @@ GRASS}</string>
 					<real>-1</real>
 					<key>Points</key>
 					<array>
-						<string>{194.00305887276005, 465.17158903381721}</string>
+						<string>{194.00305888389062, 465.17158903383586}</string>
 						<string>{318.34319526627218, 442.59211350390535}</string>
 						<string>{318.04733727810651, 167.93070422889639}</string>
 						<string>{400.70416116652973, 160.55560183838199}</string>
@@ -7040,7 +7115,7 @@ GRASS}</string>
 						<key>ID</key>
 						<integer>41588</integer>
 						<key>Position</key>
-						<real>0.0026402633837262165</real>
+						<real>0.0026402634102851152</real>
 					</dict>
 				</dict>
 				<dict>
@@ -7178,7 +7253,7 @@ GRASS}</string>
 					<real>-1</real>
 					<key>Points</key>
 					<array>
-						<string>{227.97678287027605, 465.03042965476641}</string>
+						<string>{227.97678175446367, 465.0304296558607}</string>
 						<string>{317.75147928994085, 453.73372781065081}</string>
 						<string>{336.09467455621302, 267.6390532544379}</string>
 						<string>{400.70416116652973, 268.58808880831975}</string>
@@ -7207,7 +7282,7 @@ GRASS}</string>
 						<key>ID</key>
 						<integer>41583</integer>
 						<key>Position</key>
-						<real>0.11086729521532387</real>
+						<real>0.11086729168891907</real>
 					</dict>
 				</dict>
 				<dict>
@@ -7689,9 +7764,10 @@ GRASS}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -7905,9 +7981,10 @@ ODBC}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -7958,9 +8035,10 @@ CouchDB}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -8011,9 +8089,10 @@ DODS/OPeNDAP}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -8553,9 +8632,10 @@ GeoJson}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -8606,9 +8686,10 @@ MySQL}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -8659,9 +8740,10 @@ MSSQL}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -8712,9 +8794,10 @@ PostgreSQL / PostGIS}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -8765,9 +8848,10 @@ Arc/info Binary Coverage}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -8818,9 +8902,10 @@ ESRI Personal GeoDatabase}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -8871,9 +8956,10 @@ WFST}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -8955,9 +9041,10 @@ WFS}</string>
 								<key>Align</key>
 								<integer>0</integer>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;\red25\green25\blue25;}
+{\*\expandedcolortbl;\csgray\c100000;\csgenericrgb\c9804\c9804\c9804;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\partightenfactor0
 
 \f0\fs22 \cf2 shp kml tab etc. \'85}</string>
@@ -9045,9 +9132,10 @@ WFS}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -9098,9 +9186,10 @@ FILE BASED}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -9151,9 +9240,10 @@ Open File GeoDatabase}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -9475,9 +9565,10 @@ US Census Tiger}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -9528,9 +9619,10 @@ DB2}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -9581,9 +9673,10 @@ SPATIALITE}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -9634,9 +9727,10 @@ POSTGRES}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -9687,9 +9781,10 @@ ORACLE}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -9740,9 +9835,10 @@ MSSQL}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -9793,9 +9889,10 @@ OGR}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -9900,9 +9997,10 @@ ARCGISREST}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -9953,9 +10051,10 @@ VIRTUAL}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -10006,9 +10105,10 @@ MEMORY}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -10059,9 +10159,10 @@ DELIMITED TEXT }</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -10143,7 +10244,7 @@ GPX}</string>
 					<key>OrthogonalBarPoint</key>
 					<string>{209.06767003676472, 149.71518841911765}</string>
 					<key>OrthogonalBarPosition</key>
-					<real>43.44331286354884</real>
+					<real>43.443313598632812</real>
 					<key>Points</key>
 					<array>
 						<string>{153.39654965882659, 137.37738430937785}</string>
@@ -10315,9 +10416,10 @@ GPX}</string>
 						<key>Pad</key>
 						<real>0.0</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\b\fs24 \cf0 OGR Datasources}</string>
@@ -10361,9 +10463,10 @@ GPX}</string>
 						<key>Pad</key>
 						<real>0.0</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\b\fs24 \cf0 Layers}</string>
@@ -10407,9 +10510,10 @@ GPX}</string>
 						<key>Pad</key>
 						<real>0.0</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\b\fs24 \cf0 Layer Type}</string>
@@ -10453,9 +10557,10 @@ GPX}</string>
 						<key>Pad</key>
 						<real>0.0</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\b\fs24 \cf0 Provider}</string>
@@ -10500,9 +10605,10 @@ GPX}</string>
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\b\fs24 \cf0 Diagram by:
@@ -10554,9 +10660,10 @@ Please contact tim@qgis.org with corrections / suggestions}</string>
 								<key>Pad</key>
 								<real>0.0</real>
 								<key>Text</key>
-								<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+								<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs36 \cf0 QGIS Data \
@@ -10625,8 +10732,8 @@ Taxonomy}</string>
 					<key>Points</key>
 					<array>
 						<string>{56.983193803892966, 100.6318149781366}</string>
-						<string>{76.612903225806448, 465.12903225806451}</string>
-						<string>{113.39654968631476, 465.11683512570869}</string>
+						<string>{65.451612469060862, 465.12902867310243}</string>
+						<string>{113.39654967977445, 465.11515017577011}</string>
 					</array>
 					<key>Style</key>
 					<dict>
@@ -10697,9 +10804,10 @@ Taxonomy}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -10797,9 +10905,10 @@ Vector Layer}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -10850,9 +10959,10 @@ Raster Layer}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -10903,9 +11013,10 @@ Layer}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -10946,9 +11057,10 @@ UK .NTF2}</string>
 						<key>Pad</key>
 						<real>0.0</real>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\b\fs24 \cf0 OGR Formats}</string>
@@ -11002,9 +11114,10 @@ UK .NTF2}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -11055,9 +11168,10 @@ PROTOCOL}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -11108,9 +11222,10 @@ DATABASE}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -11161,9 +11276,10 @@ DIRECTORY}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -11214,9 +11330,10 @@ FILE}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -11267,9 +11384,10 @@ WMS}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -11320,9 +11438,10 @@ WCS}</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -11373,9 +11492,10 @@ OWS }</string>
 					<key>Text</key>
 					<dict>
 						<key>Text</key>
-						<string>{\rtf1\ansi\ansicpg1252\cocoartf1404\cocoasubrtf470
+						<string>{\rtf1\ansi\ansicpg1252\cocoartf1504
 {\fonttbl\f0\fswiss\fcharset0 Helvetica-Light;}
 {\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;\csgray\c100000;}
 \pard\tx560\tx1120\tx1680\tx2240\tx2800\tx3360\tx3920\tx4480\tx5040\tx5600\tx6160\tx6720\pardirnatural\qc\partightenfactor0
 
 \f0\fs18 \cf1 \expnd0\expndtw0\kerning0
@@ -11427,7 +11547,7 @@ GDAL}</string>
 						<key>ID</key>
 						<integer>41582</integer>
 						<key>Position</key>
-						<real>0.89040954503852832</real>
+						<real>0.89040952920913696</real>
 						<key>RotationType</key>
 						<integer>0</integer>
 					</dict>
@@ -11566,16 +11686,16 @@ GDAL}</string>
 			<key>Layers</key>
 			<array>
 				<dict>
+					<key>Artboards</key>
+					<false/>
 					<key>Lock</key>
-					<string>NO</string>
+					<false/>
 					<key>Name</key>
 					<string>Layer 1</string>
 					<key>Print</key>
-					<string>YES</string>
-					<key>Slices</key>
-					<string>NO</string>
+					<true/>
 					<key>View</key>
-					<string>YES</string>
+					<true/>
 				</dict>
 			</array>
 			<key>LayoutInfo</key>
@@ -11627,10 +11747,8 @@ GDAL}</string>
 	<dict>
 		<key>CurrentSheet</key>
 		<integer>2</integer>
-		<key>Expanded_Canvases</key>
-		<array/>
 		<key>Frame</key>
-		<string>{{0, 0}, {1276, 800}}</string>
+		<string>{{4, 0}, {1276, 800}}</string>
 		<key>ShowInfo</key>
 		<false/>
 		<key>ShowRuler</key>
@@ -11639,12 +11757,12 @@ GDAL}</string>
 		<true/>
 		<key>SidebarWidth</key>
 		<integer>200</integer>
-		<key>TopSlabHeight</key>
-		<real>657</real>
+		<key>Sidebar_Tab</key>
+		<integer>0</integer>
 		<key>VisibleRegion</key>
-		<string>{{0, 213.51612903225805}, {854.0322580645161, 517.74193548387098}}</string>
+		<string>{{-14.516128920615651, 94.161289590702481}, {854.03225149622074, 517.74193150195822}}</string>
 		<key>Zoom</key>
-		<real>1.24</real>
+		<real>1.2400000095367432</real>
 		<key>ZoomValues</key>
 		<array>
 			<array>
@@ -11654,13 +11772,13 @@ GDAL}</string>
 			</array>
 			<array>
 				<string>Symbology</string>
-				<real>0.0</real>
-				<real>1.9844155311584473</real>
+				<real>0.81999999999999995</real>
+				<real>0.79000000000000004</real>
 			</array>
 			<array>
 				<string>Providers</string>
+				<real>1.2400000095367432</real>
 				<real>1.24</real>
-				<real>1.22</real>
 			</array>
 		</array>
 	</dict>
