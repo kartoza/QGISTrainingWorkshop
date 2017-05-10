@@ -3,3 +3,4 @@ software/*
 .~lock*
 *.sqlite
 *.*~
+.idea
