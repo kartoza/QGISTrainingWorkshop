@@ -1,5 +1,5 @@
 <!DOCTYPE qgis PUBLIC 'http://mrcc.com/qgis.dtd' 'SYSTEM'>
-<qgis version="2.14.3-Essen" minimumScale="-4.65661e-10" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" simplifyMaxScale="1" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
+<qgis version="2.14.14-Essen" minimumScale="-4.65661e-10" maximumScale="1e+08" simplifyDrawingHints="1" minLabelScale="0" maxLabelScale="1e+08" simplifyDrawingTol="1" simplifyMaxScale="1" hasScaleBasedVisibilityFlag="0" simplifyLocal="1" scaleBasedLabelVisibilityFlag="0">
   <edittypes>
     <edittype widgetv2type="TextEdit" name="ID">
       <widgetv2config IsMultiline="0" fieldEditable="1" UseHtml="0" labelOnTop="0"/>
@@ -23,10 +23,10 @@
         <layer pass="0" class="SimpleFill" locked="0">
           <prop k="border_width_map_unit_scale" v="0,0,0,0,0,0"/>
           <prop k="color" v="255,255,255,255"/>
-          <prop k="color_dd_active" v="1"/>
-          <prop k="color_dd_expression" v="if (&#xa;&#x9;$id = @atlas_featureid,  &#xa;&#x9;color_rgba( 255, 255, 255, 0), &#xa;&#x9;color_rgba( 255, 255, 255, 200))"/>
+          <prop k="color_dd_active" v="0"/>
+          <prop k="color_dd_expression" v=""/>
           <prop k="color_dd_field" v=""/>
-          <prop k="color_dd_useexpr" v="1"/>
+          <prop k="color_dd_useexpr" v="0"/>
           <prop k="joinstyle" v="bevel"/>
           <prop k="offset" v="0,0"/>
           <prop k="offset_map_unit_scale" v="0,0,0,0,0,0"/>
@@ -180,8 +180,8 @@
     <property key="labeling/xOffset" value="0"/>
     <property key="labeling/yOffset" value="0"/>
     <property key="labeling/zIndex" value="0"/>
-    <property key="variableNames" value="_fields_"/>
-    <property key="variableValues" value=""/>
+    <property key="variableNames"/>
+    <property key="variableValues"/>
   </customproperties>
   <blendMode>0</blendMode>
   <featureBlendMode>0</featureBlendMode>
