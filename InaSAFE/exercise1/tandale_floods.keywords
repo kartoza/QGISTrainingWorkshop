@@ -1,0 +1,6 @@
+category: hazard
+subcategory: flood
+title: Floods
+field: FLOODPRONE
+value_map: {'wet': ['YES']}
+unit: wetdry
