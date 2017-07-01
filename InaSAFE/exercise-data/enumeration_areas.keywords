@@ -1,0 +1,8 @@
+category: hazard
+subcategory: flood
+source: NBS
+title: Flood prone areas
+source_url: http://nbs.go.tz
+field: FLOODPRONE
+value_map: {'wet': ['YES']}
+unit: wetdry
