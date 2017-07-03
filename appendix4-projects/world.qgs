@@ -47,25 +47,28 @@
     <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="worldpop_2520170701222243445" name="worldpop_25">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="Trees20170702102250974" name="Trees">
+    <layer-tree-group expanded="1" checked="Qt::Unchecked" name="scratch layers for digitising">
       <customproperties/>
-    </layer-tree-layer>
-    <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="parcels20170702101743226" name="parcels">
-      <customproperties/>
-    </layer-tree-layer>
-    <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="Road_centrelines20170702102143484" name="Road centrelines">
-      <customproperties/>
-    </layer-tree-layer>
-    <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="houses20170702100957667" name="houses">
-      <customproperties/>
-    </layer-tree-layer>
+      <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="Trees20170702102250974" name="Trees">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="parcels20170702101743226" name="parcels">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="Road_centrelines20170702102143484" name="Road centrelines">
+        <customproperties/>
+      </layer-tree-layer>
+      <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="houses20170702100957667" name="houses">
+        <customproperties/>
+      </layer-tree-layer>
+    </layer-tree-group>
     <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="tandale_imagery20170701222243304" name="tandale_imagery">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="tandale_hillshade20170701222243076" name="tandale_hillshade">
       <customproperties/>
     </layer-tree-layer>
-    <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="natural_earth_vector_ne_10m_admin_0_countries_any20160812231934799" name="Countries">
+    <layer-tree-layer expanded="1" checked="Qt::Checked" id="natural_earth_vector_ne_10m_admin_0_countries_any20160812231934799" name="Countries">
       <customproperties/>
     </layer-tree-layer>
     <layer-tree-layer expanded="1" checked="Qt::Unchecked" id="Uganda_SRTM30meters20170627212153118" name="Uganda_SRTM30meters">
@@ -76,10 +79,10 @@
   <mapcanvas>
     <units>degrees</units>
     <extent>
-      <xmin>39.23746821726641798</xmin>
-      <ymin>-6.79696135915581134</ymin>
-      <xmax>39.23833096261257225</xmax>
-      <ymax>-6.79622163958576753</ymax>
+      <xmin>29.54224940437169522</xmin>
+      <ymin>-12.80676498909999594</ymin>
+      <xmax>48.86267944968248145</xmax>
+      <ymax>-0.68719955348684181</ymax>
     </extent>
     <rotation>0</rotation>
     <projections>1</projections>
@@ -100,6 +103,7 @@
       <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="Road_centrelines20170702102143484"/>
       <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="ne_ne_10m_lakes20170627174850216"/>
       <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:3857" srcDatumTransform="-1" destDatumTransform="-1" layerid="tandale_imagery20170701222243304"/>
+      <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="natural_earth_vector_ne_10m_admin_0_countries_any20160812231934799"/>
       <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="Trees20170702102250974"/>
       <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="parcels20170702101743226"/>
       <layer_coordinate_transform destAuthId="EPSG:4326" srcAuthId="EPSG:4326" srcDatumTransform="-1" destDatumTransform="-1" layerid="houses20170702100957667"/>
@@ -203,26 +207,28 @@
         <legendlayerfile isInOverview="0" layerid="worldpop_2520170701222243445" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="Trees" showFeatureCount="0">
-      <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="Trees20170702102250974" visible="0"/>
-      </filegroup>
-    </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="parcels" showFeatureCount="0">
-      <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="parcels20170702101743226" visible="0"/>
-      </filegroup>
-    </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="Road centrelines" showFeatureCount="0">
-      <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="Road_centrelines20170702102143484" visible="0"/>
-      </filegroup>
-    </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="houses" showFeatureCount="0">
-      <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="houses20170702100957667" visible="0"/>
-      </filegroup>
-    </legendlayer>
+    <legendgroup open="true" checked="Qt::Unchecked" name="scratch layers for digitising">
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="Trees" showFeatureCount="0">
+        <filegroup open="true" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="Trees20170702102250974" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="parcels" showFeatureCount="0">
+        <filegroup open="true" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="parcels20170702101743226" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="Road centrelines" showFeatureCount="0">
+        <filegroup open="true" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="Road_centrelines20170702102143484" visible="0"/>
+        </filegroup>
+      </legendlayer>
+      <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="houses" showFeatureCount="0">
+        <filegroup open="true" hidden="false">
+          <legendlayerfile isInOverview="0" layerid="houses20170702100957667" visible="0"/>
+        </filegroup>
+      </legendlayer>
+    </legendgroup>
     <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="tandale_imagery" showFeatureCount="0">
       <filegroup open="true" hidden="false">
         <legendlayerfile isInOverview="0" layerid="tandale_imagery20170701222243304" visible="0"/>
@@ -233,9 +239,9 @@
         <legendlayerfile isInOverview="0" layerid="tandale_hillshade20170701222243076" visible="0"/>
       </filegroup>
     </legendlayer>
-    <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="Countries" showFeatureCount="0">
+    <legendlayer drawingOrder="-1" open="true" checked="Qt::Checked" name="Countries" showFeatureCount="0">
       <filegroup open="true" hidden="false">
-        <legendlayerfile isInOverview="0" layerid="natural_earth_vector_ne_10m_admin_0_countries_any20160812231934799" visible="0"/>
+        <legendlayerfile isInOverview="0" layerid="natural_earth_vector_ne_10m_admin_0_countries_any20160812231934799" visible="1"/>
       </filegroup>
     </legendlayer>
     <legendlayer drawingOrder="-1" open="true" checked="Qt::Unchecked" name="Uganda_SRTM30meters" showFeatureCount="0">
