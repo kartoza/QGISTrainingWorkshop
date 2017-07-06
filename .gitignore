@@ -4,3 +4,5 @@ software/*
 *.sqlite
 *.*~
 .idea
+InaSAFE/exercise-data/worldpop_25.xml
+InaSAFE/exercise-data/wards.xml
