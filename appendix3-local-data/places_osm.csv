@@ -1,0 +1,6 @@
+osm_id,name,barrier,highway,ref,address,is_in,place,man_made,other_tags,latitude,longitude
+50485644,Swellendam,,,,,"Western Cape, South Africa",town,,"sagns_id""=>""67009"",""wikipedia""=>""en:Swellendam",20.441944,-34.021111
+262715119,Railton,,,,,"Western Cape, South Africa",suburb,,"sagns_id""=>""73996",20.444999,-34.032822
+262719496,Buffeljagsrivier,,,,,"Western Cape, South Africa",town,,"sagns_id""=>""92234",20.525,-34.044444
+2185065856,Bontebok National Park Reception & Shop,,,,,,locality,,,20.430604,-34.0592
+2393133023,Lang Elsies Kraal Rest Camp,,,,,,hamlet,,,20.455009,-34.075938
