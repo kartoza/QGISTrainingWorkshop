@@ -8,7 +8,7 @@ Unzip the sqlite file to the Appendix-1 folder(that’s where the world.qgs proj
 
 Open the terminal(linux) and run the following command:
  ```
-  ogr2ogr -f SQLite ne.sqlite name_of_downloaded_sqlite -progress -dsco SPATIALITE=YES -gt 65536 -lco SPATIAL_INDEX=YES
+  ogr2ogr -f SQLite ne.sqlite name_of_downloaded_sqlite -progress -dsco SPATIALITE=YES -gt 65536 -lco SPATIAL_INDEX=YES -nlt PROMOTE_TO_MULTI
  ```
 On windows the above command is run in the OS geo shell. You can find it under Programs and Files >QGIS
 
