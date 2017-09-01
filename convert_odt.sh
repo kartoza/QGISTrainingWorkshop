@@ -13,7 +13,7 @@ fi
 
 for d in $(find ${DATA_PATH} -maxdepth 1 -type d);
     do
-    pushd $d &&  libreoffice --headless --convert-to pdf *.odt && popd;
+    pushd ${d} &&  libreoffice --headless --convert-to pdf *.odt && popd;
 done
 
 
