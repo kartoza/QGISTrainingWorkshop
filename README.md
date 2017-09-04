@@ -7,3 +7,5 @@ Our plan is to build out a curriculum of vertical topics (e.g. symbology), horiz
 We also want to introduce the serious concept game into the curriculum.
 
 In June 2017 we started adding OSM to the mix.
+
+We have also provided a script which converts all odt worksheets to pdf. The script is convert_odt.sh which should be run before begining the training manual.
