@@ -1,6 +1,6 @@
 # QGIS Training Materials
 
-It is important to orient people into how the training works since most people are used to 'following the notes’. It also takes a little time to get used to the training modality but once they do I think they get much more in-depth knowledge.
+It is important to orient people into how the training works since most people are used to 'following the notes’. It also takes a little time to get used to the training modality but once they do I think they get much more in-depth knowledge. One key thing we should point out is that these training materials are intended to be used by a competent and knowledgable instructor - they do not try to include every small detail or nuance - the instructor is expected to relay this kind of detail vebally to the audience. Rather these worksheets provide an activity framework of small modular tasks that an instructor can use to guide their course attendees through a range of topics.
 
 Our plan is to build out a curriculum of vertical topics (e.g. symbology), horizontal topics (how do I combine skills from various vertical topics in a workflow), DRR specific training (generally theory of preparing for disasters) and InaSAFE (as a vertical topic).
 
