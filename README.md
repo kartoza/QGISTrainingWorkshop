@@ -1,5 +1,7 @@
 # QGIS Training Materials
 
+Please visit our [web site](https://kartoza.github.io/QGISTrainingWorkshop/) for a more user friendly gallery of worksheets.
+
 It is important to orient people into how the training works since most people are used to 'following the notes’. It also takes a little time to get used to the training modality but once they do I think they get much more in-depth knowledge. One key thing we should point out is that these training materials are intended to be used by a competent and knowledgable instructor - they do not try to include every small detail or nuance - the instructor is expected to relay this kind of detail vebally to the audience. Rather these worksheets provide an activity framework of small modular tasks that an instructor can use to guide their course attendees through a range of topics.
 
 **Because of the above it is important that the instructor walks through every exercise themselves before running a training course so that they are clear on how to complete the tasks and thus can guide the course participants as needed.**
