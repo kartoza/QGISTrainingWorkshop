@@ -5,3 +5,5 @@ software/*
 *.*~
 .idea
 appendix2-tandale-data/worldpop_25.xml
+*.qgs.bak
+*.tif.aux.xml
